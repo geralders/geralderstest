@@ -2,7 +2,7 @@ var imu = 'red';
 var leaderboard = 'blue';
 var skyscraper = 'green';
 
-console.log('adhese_tag.js start.');
+console.info('adhese_tag.js start.');
 
 Adhese.prototype.Ad = function (adhese, formatCode, options) {
     var defaults = {
