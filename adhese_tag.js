@@ -5554,5 +5554,5 @@ if (window["$sf"]) {
 
 var renderBasicTextadContainer = function (ads) {
     console.info(ads);
-    console.log('adhese_tag.js called.');
+    console.info('adhese_tag.js called.');
 };
